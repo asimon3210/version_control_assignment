@@ -36,7 +36,7 @@ If the version control concepts or `git` commands are still confusing to you, co
     > I get the following error:
 	remote: Permission to WCM-datascibasics/version_control_assignment.git denied to asimon3210.
 	fatal: unable to access 'https://github.com/WCM-datascibasics/version_control_assignment/': The requested URL returned error: 403
-        This is probably because I used an incorrect password to access the WCM-datascibasics account. I didn't have the correct credentials, so I did not have permission to access this remote. 
+        This is probably because I used an incorrect password to access the WCM-datascibasics account. I didn't have the correct credentials, so I did not have permission to access this remote. The benefits of having the `upstream` remote added when working collaboratively is that you get to keep trach of the changes you made and prevent creating unnecessary divergent lines in the repository. 
 
  4. Now clone the repository for the [class website](https://github.com/WCM-datascibasics/wcm-datascibasics.github.io), and in the class website repository:
     - a. Explore the version history by visualizing it as a graph (remember the dog meme?).
